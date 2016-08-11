@@ -1,0 +1,14 @@
+layout_spectrum: 0.5565547700971365
+typography_spectrum: 0.8321216171607375
+color:
+  brandStrength: 0.052136266604065895
+  lightness: 0.025074293836951256
+  saturation: 0.029879597714170814
+  rhythmicContrast: 0.6839747217018157
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: est
