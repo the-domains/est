@@ -6,9 +6,9 @@ color:
   saturation: 0.029879597714170814
   rhythmicContrast: 0.6839747217018157
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#FEFEFE'
+    - '#F8FF00'
+    - '#222333'
+    - '#BCB3AF'
+    - '#5E6064'
 name: est
