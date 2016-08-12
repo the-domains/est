@@ -1,16 +1,16 @@
-typography_spectrum: 0.8321216171607375
+typography_spectrum: 0.28746478469111025
 color:
-  brandStrength: 0.052136266604065895
-  lightness: 0.025074293836951256
-  saturation: 0.029879597714170814
-  rhythmicContrast: 0.6839747217018157
+  brandStrength: 0.1427149223163724
+  lightness: 0.9636193148326129
+  saturation: 0.8876731980126351
+  rhythmicContrast: 0.8613500618375838
   brandColors:
-    - '#FEFEFE'
-    - '#F8FF00'
-    - '#222333'
-    - '#BCB3AF'
-    - '#5E6064'
-layout_spectrum: 0.5565547700971365
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.8469300237484276
 name: est
 title: my website
 description: just mine
